@@ -57,6 +57,9 @@
   <component name="SvnBranchConfigurationManager">
     <option name="mySupportsUserInfoFilter" value="true" />
   </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="C:\Users\akankshag\IdeaProjects\ScalaParking\ParkingLotInScala" vcs="Git" />
+  </component>
   <component name="libraryTable">
     <library name="scala-sdk-2.11.8" type="Scala">
       <properties>
